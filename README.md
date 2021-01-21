@@ -1,6 +1,6 @@
-# hello-word
+# Olá Mundo
 
-Hi Humans!
+Opa pessoal!
 
-Hubot here, I like Node.js and coffeescript (that´s what I´m made of!).
-I´ve had tacos on the moon and find then far superior to Earth tacos.
+Pedro aqui, gosto de python entre outras linguagens de programação.
+Primeiro repositorio aqui no GitHub.
